@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Credenciales
+
+Usuario: flutter
+Contraseña: pizza
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
